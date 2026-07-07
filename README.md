@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nexus_banner_animated.gif" alt="Nexus Solutions Co., Ltd. Banner" width="100%">
+  <img src="/nexus_banner_animated.gif" alt="Nexus Solutions Co., Ltd. Banner" width="100%">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ We develop reliable and scalable technology for business, construction, infrastr
 ## 🏗️ Construction DX — Tunnel Excavation & Automation
 
 <p align="center">
-  <img src="./assets/construction_dx_animated.gif" alt="Construction DX Tunnel Technology" width="100%">
+  <img src="/construction_dx_animated.gif" alt="Construction DX Tunnel Technology" width="100%">
 </p>
 
 ---
