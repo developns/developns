@@ -1,17 +1,19 @@
 <p align="center">
-  <img src="/logo.png" width="150" alt="Nexus Solutions Logo">
-</p>
-
-<h1 align="center">Nexus Solutions Inc.</h1>
-
-<p align="center">
-  <b>Software Development • Cloud Solutions • Automation • IoT • LiDAR • Construction DX</b>
+  <img src="/nexus_banner_animated.gif" alt="Nexus Solutions Inc. Banner" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.nexus-sols.co.jp">
     <img src="https://img.shields.io/badge/Website-nexus--sols.co.jp-00AEEF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
+  <img src="https://img.shields.io/badge/Location-Japan-BC002D?style=for-the-badge&logo=japan&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active-39FF14?style=for-the-badge">
+</p>
+
+<h1 align="center">Nexus Solutions Inc.</h1>
+
+<p align="center">
+  <b>Software Development • Cloud Solutions • Automation • IoT • LiDAR • Construction DX</b>
 </p>
 
 ---
