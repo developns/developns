@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/nexus_banner.gif" alt="Nexus Solutions Inc. Banner" width="100%">
+  <img src="./assets/nexus_banner_animated.gif" alt="Nexus Solutions Co., Ltd. Banner" width="100%">
 </p>
 
 <p align="center">
@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Status-Active-39FF14?style=for-the-badge">
 </p>
 
-<h1 align="center">Nexus Solutions Inc.</h1>
+<h1 align="center">株式会社Nexus Solutions</h1>
+<h3 align="center">Nexus Solutions Co., Ltd.</h3>
 
 <p align="center">
   <b>Software Development • Cloud Solutions • Automation • IoT • LiDAR • Construction DX</b>
@@ -51,7 +52,7 @@
 
 ## 🚀 About Us
 
-**Nexus Solutions Inc.** is a Japan-based IT company focused on building modern software, automation systems, cloud platforms, LiDAR solutions, and digital transformation systems.
+**Nexus Solutions Co., Ltd.** is a Japan-based IT company focused on building modern software, automation systems, cloud platforms, LiDAR solutions, and digital transformation systems.
 
 We develop reliable and scalable technology for business, construction, infrastructure, and smart operation systems.
 
@@ -69,6 +70,14 @@ We develop reliable and scalable technology for business, construction, infrastr
 | 🛰️ LiDAR Solutions | Point cloud and survey data processing |
 | 🏗️ Construction DX | Digital transformation for construction |
 | 🤖 Automation Tools | Workflow automation and smart tools |
+
+---
+
+## 🏗️ Construction DX — Tunnel Excavation & Automation
+
+<p align="center">
+  <img src="./assets/construction_dx_animated.gif" alt="Construction DX Tunnel Technology" width="100%">
+</p>
 
 ---
 
@@ -117,6 +126,6 @@ SQL / Database  ██░░░░░░░░░░░░░░░░░░ 5%
 ---
 
 <p align="center">
-  <b>Nexus Solutions Inc.</b><br>
+  <b>Nexus Solutions Co., Ltd.</b><br>
   Building smart technology for the future.
 </p>
