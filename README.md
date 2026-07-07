@@ -75,7 +75,7 @@ We develop reliable and scalable technology for business, construction, infrastr
 ## 🏗️ Construction DX — Tunnel Excavation & Automation
 
 <p align="center">
-  <img src="/construction_dx_animated.gif" alt="Construction DX Tunnel Technology" width="100%">
+  <img src="/rock_bolting_jumbo.mp4" alt="Construction DX Tunnel Technology" width="100%">
 </p>
 
 ---
