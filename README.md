@@ -21,7 +21,7 @@
 ## ✨ LiDAR & TS Leica Laser Measuring
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=28&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=LiDAR+Point+Cloud+Solutions;TS+Leica+Laser+Measuring;Survey+%26+Mapping+Technology;Real-time+Scanning+%26+Data+Processing" alt="LiDAR Animation">
+  <video src="./rock_bolting_jumbo.mp4" width="100%" controls></video>
 </p>
 
 <p align="center">
