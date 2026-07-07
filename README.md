@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo.png" width="150" alt="Nexus Solutions Logo">
+  <img src="/logo.png" width="150" alt="Nexus Solutions Logo">
 </p>
 
 <h1 align="center">Nexus Solutions Inc.</h1>
