@@ -11,7 +11,6 @@
 </p>
 
 <h1 align="center">株式会社Nexus Solutions</h1>
-<h3 align="center">Nexus Solutions Co., Ltd.</h3>
 
 <p align="center">
   <b>Software Development • Cloud Solutions • Automation • IoT • LiDAR • Construction DX</b>
