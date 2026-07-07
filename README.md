@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/top_nexus_banner.gif" alt="Nexus Solutions Co., Ltd. Banner" width="100%">
+  <img src="/nexus_banner_top.gif" alt="Nexus Solutions Co., Ltd. Banner" width="100%">
 </p>
 
 <p align="center">
